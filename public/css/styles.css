@@ -1,0 +1,28 @@
+h1 {
+    color: #444;
+}
+
+.hide {
+    display: none;
+}
+
+.success {
+    margin: 1em 0;
+    color: green;
+}
+
+#submit {
+    margin-top: 3em;
+    padding: 0.5em 2em;
+    font-weight: bold;
+}
+
+#payment {
+    max-width: 30em;
+}
+
+input,
+button {
+    display: block;
+    margin: 1em 0;
+}
